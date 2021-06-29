@@ -14,7 +14,7 @@ Target Variable 'Price': Price in dollars
 
 ## Conclusions
 
-Predictions XGBoost yielded better accuracy than Random Forest Regression model. 
+Predictions XGBoost yielded better accuracy than Random Forest Regression model. The predictions on test data are submitted to the [Housing Prices Competition on Kaggle](https://www.kaggle.com/c/home-data-for-ml-course). The Mean Absolute Error on predictions of test data is reported as 14951.28888.
 
 ## Reference
 
