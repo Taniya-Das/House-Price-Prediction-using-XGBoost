@@ -1,4 +1,4 @@
-# House_Price_Prediction_using_XGBoost
+# House Price Prediction using XGBoost
 
 
 The project predicts house price using dataset based on Melbourne Houses.   
