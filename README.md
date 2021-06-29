@@ -8,9 +8,8 @@ Pipeline method is used to bundle data cleaning and modelling steps.
 
 ## Data
 
-The dataset consists details about [Melbourne Housing](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot). It has 13580 entries and each entry has 21 features.   
-Features include Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
-Target Variable 'Price': Price in dollars 
+The dataset consists details about [Ames, Iowa Housing](https://www.kaggle.com/c/home-data-for-ml-course/data). Each entry is described using 79 features.   
+Target Variable: 'SalePrice' (property's sale price in dollars).
 
 ## Conclusions
 
